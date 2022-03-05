@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>General &#8211; Metaverso #Navonia</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>El blog de Navonia</description>
+	<lastBuildDate>Sat, 05 Mar 2022 14:15:10 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.1</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2022/01/cropped-NavCoin01-32x32.png</url>
+	<title>General &#8211; Metaverso #Navonia</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>¿Que es Noise.Cash?</title>
+		<link>./../../../que-es-noise-cash/index.html</link>
+		
+		<dc:creator><![CDATA[NavoneJuan]]></dc:creator>
+		<pubDate>Mon, 24 Jan 2022 22:37:27 +0000</pubDate>
+				<category><![CDATA[General]]></category>
+		<guid isPermaLink="false">https://navonia.xyz/?p=32</guid>
+
+					<description><![CDATA[Luego de estar más de un año en NOISE, un comentario de que es, como lo veo, y algunas ideas o conceptos sobre la plataforma
+<p><a href="./../../../que-es-noise-cash/index.html" rel="nofollow">Origen</a></p>]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
